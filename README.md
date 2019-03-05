@@ -1,4 +1,4 @@
-#CSS-CLASS
+# CSS-CLASS
 0.0.1
 Just create a simple css class with javascript
 
