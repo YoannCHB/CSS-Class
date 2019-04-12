@@ -26,5 +26,5 @@ Usage:
 ```js
 var myClass = new css(json); //Create a class (base)
 myClass.hover(json); //When the mouse hover the block
-myClass(element); //Add the class to an element like body
+myClass.add(element); //Add the class to an element like body
 ```
